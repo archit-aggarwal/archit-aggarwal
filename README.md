@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Flutter & Firebase
 - 👯 I’m looking to collaborate with Flutter Developers
 - 🤔 I’m looking for help with Firebase & Paytm Integration
-- 💬 Ask me about GfG internship
+- 💬 Ask me about Pepcoding internship
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/archit-aggarwal-6a7716189/)
 - 🥅 2021 Goals: Implement SQL Database Systems in Flutter
 - ⚡ Fun fact: I started my journey as Web developer but currently Flutter Developer.
