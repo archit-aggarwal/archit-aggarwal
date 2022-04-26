@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as Product Engineer & Instructor at Pepcoding.
+- 🔭 I am Incoming Software Engineer Intern at Salesforce.
 - 🌱 I’m currently learning Java Backend Development.
 - 👯 I’m looking to collaborate with Java Developers
 - 🤔 I’m looking for help in learning System Design.
