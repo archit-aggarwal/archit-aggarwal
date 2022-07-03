@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I am Incoming Software Engineer Intern at Salesforce.
-- 🌱 I’m currently learning Java Backend Development.
-- 👯 I’m looking to collaborate with Java Developers
-- 🤔 I’m looking for help in learning System Design.
+- 🔭 I am Software Engineer Intern at Salesforce.
+- 🌱 I’m currently exploring DevOps and Backend Development.
+- 👯 I’m looking to learn System Design Concepts.
 - 💬 Ask me about Data Structures and Algorithms.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/archit-aggarwal-6a7716189/)
 - 🥅 2022 Goals: Learn about Computer Networking, Object Oriented Design and Design Patterns.
